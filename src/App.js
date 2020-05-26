@@ -4,7 +4,7 @@ import Square from './Square.js';
 
 class App extends React.Component {
   render() {
-    let squareNo = 25
+    let squareNo = 20
     let grid = []
 
     while (squareNo > 0) {
