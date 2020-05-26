@@ -1,0 +1,8 @@
+.square {
+  float: left;
+  height: 20vw;
+  width: 20vw;  
+  background-color: silver;
+  margin: 2px;
+  transition: 0.1s all;
+}
